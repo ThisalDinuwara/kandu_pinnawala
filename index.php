@@ -54,15 +54,20 @@
         </div>
         <div class="about-text">
             <h2>Our History</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit magnam odit dicta porro 
-            id labore ab veritatis vel fugit ducimus at soluta consequuntur incidunt et explicabo quaerat, 
-            officia sit delectus!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas commodi veritatis numquam veniam necessitatibus? 
-            Quaerat saepe voluptatum tempora dolores sint praesentium harum sit, dolorem dolor, 
-            quae dolorum velit nisi at.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum voluptatum nulla blanditiis sunt nam sed suscipit, 
-            consectetur nihil id ut doloribus cum illum dicta voluptate vitae repellendus praesentium laboriosam. 
-            Reprehenderit?</p>
+            <p>
+            Kandu Pinnawala Handicraft Shop was founded with a passion for preserving Sri Lanka’s rich cultural heritage and supporting local artisans. 
+            Located near the world-famous Pinnawala Elephant Orphanage, 
+            our shop began as a small family-run business dedicated to showcasing the beauty of traditional Sri Lankan craftsmanship.
+            </p>
+
+            <p>
+            Over the years, we’ve grown into a trusted destination for authentic handmade items, including wooden carvings, masks, batik, and woven products. 
+            Every piece in our collection is handcrafted with care, reflecting the skill, creativity, and stories of our local community.
+            </p>
+
+            <p>
+            Today, Kandu Pinnawala is more than just a shop – it's a celebration of tradition, artistry, and the spirit of Sri Lanka.
+            </p>
             <a href="#" class="btn">Learn More</a>
         </div>
     </section>
@@ -118,7 +123,7 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem libero eius nobis, 
                 fugit reiciendis porro vitae quidem. A quas dolores, cumque iusto quis perspiciatis ab, 
                 accusantium quos repudiandae, repellendus sint?</p>
-                <h2>Thisal Dinuwara</h2>
+                <h2>Jeram Perera</h2>
                 <img src="img/rev1.jpg" alt="">
             </div>
 
