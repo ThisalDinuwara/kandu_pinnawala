@@ -38,10 +38,9 @@
     <!--Home-->
     <section class="home" id="home">
         <div class="home-text">
-            <h1>Start your day<br>with coffee</h1>
-            <p>Lorem ipsum dolor sit amet conectetur adipisicing elit. Possimus reiciendis laudantium 
-            amet, ea a ipsum atque. Qui unde quaerat nemo corporis eum quod, nam quasi officiis nihil 
-            omnis deserunt nescoiunt!</p>
+            <h1>Welocome to Kandu Pinnawala</h1>
+            <p>We're proud to bring you the best of Sri Lankan handmade arts and crafts – all made with love by talented local artisans. Whether you're looking for a unique gift, a beautiful souvenir, or something special for your home, you'll find it here. From wooden carvings and traditional masks to handwoven items and more, each piece tells a story.
+            Visit us in beautiful Pinnawala or browse online – we're always happy to help you find something truly meaningful. Thank you for supporting local craftsmanship!</p>
             <a href="#" class="btn">Shop Now</a>
         </div>
         <div class="home-img">

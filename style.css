@@ -114,13 +114,13 @@ header{
 }
 .home-text h1{
     font-size: 3.4rem;
-    color: var(--main-color);
+    color: var(--text-color);
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 .home-text p{
     font-size: 0.938rem;
-    color: var(--bg-color);
+    color: var(--text-color);
     margin: 0.5rem 0 1.4rem;
 }
 .btn{
